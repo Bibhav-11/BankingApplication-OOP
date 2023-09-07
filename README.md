@@ -1,6 +1,6 @@
 ﻿# Banking Application
 
-This is a simple console-based banking application written in C# that demonstrates fundamental object-oriented programming (OOP) principles. It also intigrates with the database through Entity Framework, which was designed used code-first approach.
+This is a simple console-based banking application written in C# that demonstrates fundamental object-oriented programming (OOP) principles. It also intigrates with the database through Entity Framework, which was designed using code-first approach.
 
 ## Features
 
